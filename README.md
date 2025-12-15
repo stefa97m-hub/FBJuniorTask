@@ -16,7 +16,7 @@ The project follows a clean Page Object Model (POM) architecture with clear sepa
 
 ## base
 
-● Contains shared logic such as BasePage, handles common setup and teardown
+● Contains shared logic such as BaseTest, handles common setup and teardown
 
 ## pages
 
@@ -28,7 +28,7 @@ The project follows a clean Page Object Model (POM) architecture with clear sepa
 
 ## constants 
 
-● Contains one class EndPoints that is helping with Url's 
+● Contains one class EndPoints that is helping with URLs 
 
 ---
 
@@ -36,7 +36,7 @@ The project follows a clean Page Object Model (POM) architecture with clear sepa
 
 After running the tests, you can generate and view a full-featured test report using Allure.
 
-You will need to install Allure.
+Please note that you will need to install Allure.
 
 For macOS (with Homebrew):
 ```
